@@ -4,5 +4,6 @@ public class DEMO {
         System.out.println("Welcome to Git Lab");
         System.out.println("Learning Version Control");
         System.out.println("This is my first commit");
+        System.out.println("Learning Git version history");
     }
 }
