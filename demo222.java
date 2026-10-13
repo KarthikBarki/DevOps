@@ -8,5 +8,6 @@ public class Demo222 {
         for (int i = 1; i <= 5; i++) {
             System.out.println("Number: " + i);
         }
+System.out.println("Git branching practice completed!");
     }
 }
